@@ -9,6 +9,9 @@
         <div id="item2">
             item2
         </div>
+        <div id="item3">
+            item3
+        </div>
     </div>
 </template>
 
