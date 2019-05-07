@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flexdemo
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# flex_demo
+the demo to learn flex grid
+>>>>>>> 060ebd7c756ca51742739ce81bf1309a1698b70b
